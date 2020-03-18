@@ -78,7 +78,7 @@ public class LoopView extends View {
         lineSpacingMultiplier = 2.0F;
         isLoop = false;
         initPosition = 0;
-        itemCount = 7;
+        itemCount = 5;
         y1 = 0.0F;
         y2 = 0.0F;
         dy = 0.0F;
